@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
+  //Color state
   const [color , setColor] = useState("olive")
 
   return (
